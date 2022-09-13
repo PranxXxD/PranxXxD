@@ -80,13 +80,13 @@ BackEnd.................Loading!
 ## Current Update
 
 Currently working on the E-commerce website.
-which streetWear.com streetWear is an minimal and aesthetic website
-developed by using nextjs of react framework, which sell clothing products for both men & women 
-with affordable price with good quality, one can easily place an order with out login or creating an account. 
+which is streetWear.com, streetWear is an minimal and aesthetic website
+developed by using nextjs framework of react, the web-site sell clothing products for both men & women 
+with affordable price with good quality, one can easily place an order without login or creating an account. 
 User can also check if the product is deliverable to his/her address which makes the user experiance better!
 
-Technologies used HTML CSS JavaScript nextjs => reactjs framework, Tailwind,
-CSS, MongoDb, AWS bucket, for storing images, JWT, 
+Technologies used HTML CSS JavaScript nextjs => reactjs => next.js framework, Tailwind,
+CSS, MongoDb, AWS bucket, for storing images, JWT => for generating a token, 
 Crypto-js => user authentication, 
 emailjs => email authentication 
 material ui & react-icons 
