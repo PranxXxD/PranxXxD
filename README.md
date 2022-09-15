@@ -16,7 +16,7 @@ BackEnd.................Loading!
 
 👨🏽‍💻 I'm Self taugth developer
 
-<img src="portfolio3.png" width="500"/>
+<img src="portfolio3.png" width="400"/>
                                                                                    
 * Exploring JavaScript
 * Tweets & Linkedin post | Discord community
