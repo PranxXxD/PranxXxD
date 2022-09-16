@@ -14,7 +14,7 @@
 
 BackEnd.................Loading!
 
-👨🏽‍💻 I'm Self taugth developer
+👨🏽‍💻 I'm Self thougth developer
 
 <img src="portfolio3.png" width="400"/>
                                                                                    
